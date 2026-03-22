@@ -103,7 +103,7 @@ function generateProjectMarkdown(data) {
   // Footer
   lines.push('---');
   lines.push('');
-  lines.push('*Made with ❤️ using [ReadMeGen](https://github.com)*');
+  lines.push('*Made with ❤️ using [ReadMeGen](https://github.com/Viron1121/Readme_Gen)*');
 
   return lines.join('\n');
 }
